@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\DemoRedis\\DemoRedis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\services\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\services\\iresponsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\installers\\serviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\installers\\serviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\installers\\installerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\installers\\installerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\installers\\systeminstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\installers\\systeminstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\installers\\iinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\installers\\iinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\installers\\cacheinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\installers\\cacheinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\demoredis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\demoredis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\configurations\\redisconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\configurations\\redisconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|d:\\github\\demoredis\\demoredis\\demoredis\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323B2C2B-7408-487F-A909-6A1B0A02CCBF}|DemoRedis\\DemoRedis.csproj|solutionrelative:demoredis\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoRedis\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:26:37.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CacheInstaller.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\CacheInstaller.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Installers\\CacheInstaller.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\CacheInstaller.cs",
+              "RelativeToolTip": "DemoRedis\\Installers\\CacheInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:44:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Attributes\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Attributes\\CacheAttribute.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Attributes\\CacheAttribute.cs",
+              "RelativeToolTip": "DemoRedis\\Attributes\\CacheAttribute.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAApwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:16:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseCacheService.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Services\\ResponseCacheService.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Services\\ResponseCacheService.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Services\\ResponseCacheService.cs",
+              "RelativeToolTip": "DemoRedis\\Services\\ResponseCacheService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:51:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IResponseCacheService.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Services\\IResponseCacheService.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Services\\IResponseCacheService.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Services\\IResponseCacheService.cs",
+              "RelativeToolTip": "DemoRedis\\Services\\IResponseCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:50:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RedisConfiguration.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Configurations\\RedisConfiguration.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Configurations\\RedisConfiguration.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Configurations\\RedisConfiguration.cs",
+              "RelativeToolTip": "DemoRedis\\Configurations\\RedisConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:43:54.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemInstaller.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\SystemInstaller.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Installers\\SystemInstaller.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\SystemInstaller.cs",
+              "RelativeToolTip": "DemoRedis\\Installers\\SystemInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:37:39.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInstaller.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\IInstaller.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Installers\\IInstaller.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\IInstaller.cs",
+              "RelativeToolTip": "DemoRedis\\Installers\\IInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:29:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\WeatherForecast.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\WeatherForecast.cs",
+              "RelativeToolTip": "DemoRedis\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T08:53:20.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceInstaller.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\ServiceInstaller.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Installers\\ServiceInstaller.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\ServiceInstaller.cs",
+              "RelativeToolTip": "DemoRedis\\Installers\\ServiceInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:40:33.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstallerExtensions.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\InstallerExtensions.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Installers\\InstallerExtensions.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Installers\\InstallerExtensions.cs",
+              "RelativeToolTip": "DemoRedis\\Installers\\InstallerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:31:23.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoRedis.csproj",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\DemoRedis.csproj",
+              "RelativeDocumentMoniker": "DemoRedis\\DemoRedis.csproj",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\DemoRedis.csproj",
+              "RelativeToolTip": "DemoRedis\\DemoRedis.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T09:28:54.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoRedis\\appsettings.json",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\appsettings.json",
+              "RelativeToolTip": "DemoRedis\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T09:41:25.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Startup.cs",
+              "RelativeDocumentMoniker": "DemoRedis\\Startup.cs",
+              "ToolTip": "D:\\Github\\DemoRedis\\DemoRedis\\DemoRedis\\Startup.cs",
+              "RelativeToolTip": "DemoRedis\\Startup.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:28:19.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
